@@ -1,0 +1,43 @@
+                        Internship Task-2 Report - Landing Page of Shopping Website
+
+I am writing to submit my internship task-2  report regarding the development of a responsive web page for the Shopping Website, as assigned during my internship at VeriTech Software IT Services. Please find the details of the completed task outlined below:
+
+
+Email Id:nakkinasekhar123@gmail.com
+
+Name: Nakkina Veera Venkatasomasekhar
+
+Task Title: Enhancing Front-End Design of Shopping Website (ShopeMe)
+
+Task Description: 
+
+    Enhance the front-end design of a shopping website to improve user experience and visual appeal.
+
+Steps Taken:
+
+- Implemented responsive design principles using CSS media queries.
+- Added search functionality using JavaScript to enable dynamic filtering of items.
+- Enhanced visual appeal with CSS animations, hover effects, and background images.
+- Centered the search box within the navigation bar using CSS flexbox.
+
+Challenges Faced:
+
+- Ensuring consistent rendering and functionality across different web browsers.
+- Balancing visual enhancements with website performance.
+- Integrating search functionality seamlessly with existing design elements.
+
+Solutions Implemented:
+
+- Thorough testing and debugging across multiple browsers to ensure compatibility.
+- Optimizing code structure and resource usage to improve website performance.
+- Careful planning and implementation of search functionality integration.
+
+Learnings:
+
+- Improved understanding of responsive design principles and techniques.
+- Enhanced proficiency in Html for the website interactions.
+- Experience with CSS animations and hover effects for visual enhancements.
+
+Project Update:
+
+Successfully completed Task 2 of the internship by enhancing the front-end design of the shopping website.
